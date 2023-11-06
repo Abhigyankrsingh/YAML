@@ -1,3 +1,7 @@
 {
-    "cities"
+    "cities": [
+        "new delhi",
+        "mumbai"
+        
+    ]
 }
