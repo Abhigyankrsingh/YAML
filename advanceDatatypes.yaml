@@ -1,0 +1,10 @@
+student: !!seq
+ -marks
+ -name
+ -roll_n0
+
+
+
+ #like this also
+cities: [new delhi,mumbai]
+
