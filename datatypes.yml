@@ -27,3 +27,16 @@ booleanValue: No # n, N, false, False, FALSE
 
 #same for true -> yes,y,Y
 
+
+#specify the type
+
+zero: !!int 0
+
+positiveNum: !!int 45
+binaryNUm: !!int 0b1101
+octalNum: !!int 0653
+
+hexa: !!int ox45
+commaValue: !!int +540_000 #540,000
+
+
