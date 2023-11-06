@@ -48,7 +48,21 @@ role:{age:20, job:student}
 pair example: !!pairs
  - job: student
  - job: teacher
+# same as
 
+pair example: !!pairs [job:student, job: teacher]
 #this will be an array of hashtables
 
  
+## !!set will allow you to have unique values
+
+name: !!set
+? Kunal
+? Apporv
+? Rahul
+
+# dictonary !! omap
+
+people: !!omap
+ -Abhi:
+   name:
