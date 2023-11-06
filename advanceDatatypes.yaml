@@ -18,6 +18,17 @@ sparse seq:
  - how
  -
  - Null
+ - sup
 
 
 # nested sequence
+
+-
+ - mango
+ - apple
+ - banana
+-
+ - marks
+ - roll num
+ - data
+
