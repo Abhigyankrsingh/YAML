@@ -23,4 +23,7 @@ number: 543
 
 marks: 98.45
 
-booleanValue: No
+booleanValue: No # n, N, false, False, FALSE
+
+#same for true -> yes,y,Y
+
