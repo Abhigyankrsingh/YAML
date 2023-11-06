@@ -1,0 +1,21 @@
+# String variables
+
+name: Abhigyan
+
+
+fruit: " apple"
+
+
+bio: |
+hey,
+i am nice dude.
+
+
+# write a single line in multiple lines
+
+message: >
+
+this will
+all be
+same line.
+
