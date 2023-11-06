@@ -52,3 +52,9 @@ surname: !!null Null # or null NULL ~
 
 ~: this is a null key
 
+
+#date and time
+
+date: !!timestamp 2034-12-14
+india time: 2034-12-14T02:59:43.10 +5.30
+
