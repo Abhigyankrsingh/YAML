@@ -39,4 +39,8 @@ octalNum: !!int 0653
 hexa: !!int ox45
 commaValue: !!int +540_000 #540,000
 
+#floating point numbers
 
+marks: !!float 56.69
+infinte: !!float .inf
+not a num: .nan
