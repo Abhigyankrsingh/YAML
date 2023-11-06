@@ -32,3 +32,23 @@ sparse seq:
  - roll num
  - data
 
+#key: value pairs are called maps
+
+!!map
+
+# nested mappings: map within an map
+
+name: Abhigyan
+role:{age:20, job:student}
+
+#pairs: key may have duplicate values
+
+# !!pairs
+
+pair example: !!pairs
+ - job: student
+ - job: teacher
+
+#this will be an array of hashtables
+
+ 
