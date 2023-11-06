@@ -50,4 +50,5 @@ not a num: .nan
 
 surname: !!null Null # or null NULL ~
 
-~: this is a nukk key
+~: this is a null key
+
