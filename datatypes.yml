@@ -38,6 +38,7 @@ octalNum: !!int 0653
 
 hexa: !!int ox45
 commaValue: !!int +540_000 #540,000
+exponentia numbers: 6.023E56
 
 #floating point numbers
 
