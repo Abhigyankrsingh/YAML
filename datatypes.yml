@@ -44,3 +44,10 @@ commaValue: !!int +540_000 #540,000
 marks: !!float 56.69
 infinte: !!float .inf
 not a num: .nan
+
+
+#null
+
+surname: !!null Null # or null NULL ~
+
+~: this is a nukk key
